@@ -1,4 +1,4 @@
-# Godspeed
+![Godspeed — Your thinking machine. A dark banner with the Godspeed wordmark beside a sage-green orbital illustration.](docs/godspeed-banner.webp)
 
 **A workspace for thinking, planning, and getting things done.**
 
